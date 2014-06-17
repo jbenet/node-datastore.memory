@@ -1,0 +1,28 @@
+{
+  "name": "datastore.memory",
+  "version": "0.0.0",
+  "description": "datastore in memory object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "datastore"
+  ],
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^2.13.3"
+  },
+  "dependencies": {
+    "datastore.abstract": "0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbenet/datastore.memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbenet/datastore.memory/issues"
+  },
+  "homepage": "https://github.com/jbenet/datastore.memory"
+}
