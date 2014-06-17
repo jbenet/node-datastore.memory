@@ -1,6 +1,6 @@
 # datastore.memory
 
-Strawman [datastore] implementation. Simple in memory object.
+Strawman [datastore](https://github.com/jbenet/node-datastore) implementation. Simple in memory object.
 
 ## Example
 
